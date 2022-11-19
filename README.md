@@ -2,7 +2,7 @@
 I'm ThatOneEnby1337 also known as Dakota  
 My Pronouns are He/They/It and you can find me on  
 CoHost: https://cohost.org/ThatOneEnby1337  
-Mastodon: ThatOneEnby@c.im | https://c.im/@ThatOneEnby1337  
+Mastodon: <a rel="me" href="https://c.im/@ThatOneEnby1337">@ThatOneEnby1337@c.im</a>  
 Twitter: https://twitter.com/ThatOneEnby1337  
 Discord: Dakota#5526  
 Reddit: https://reddit.com/u/ThatOneEnby1337  
